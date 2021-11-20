@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Grafo_v1/1.0.0": {
+        "dependencies": {
+          "ComandosConsola": "1.0.0.0"
+        },
+        "runtime": {
+          "Grafo_v1.dll": {}
+        }
+      },
+      "ComandosConsola/1.0.0.0": {
+        "runtime": {
+          "ComandosConsola.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grafo_v1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComandosConsola/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
